@@ -1,5 +1,5 @@
 
-# 🌟 Fashion Recommendation System
+# Fashion Recommendation System
 
 Welcome to the **Fashion Recommendation System**, a user-friendly platform built using **Streamlit** and **TensorFlow**. This system allows users to discover visually similar fashion items by simply uploading an image. It’s perfect for businesses looking to enhance their product recommendations based on customer preferences and analytics.
 
