@@ -29,7 +29,7 @@ Ensure the dataset is stored in the `images/` folder as outlined in the **File S
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/fashion-recommendation-app.git
+   git clone https://github.com/sahil-D-scientist/project_Fashion_recommendation_app.git
    cd fashion-recommendation-system
    ```
 
